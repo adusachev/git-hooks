@@ -7,12 +7,12 @@ File `validate_file_size.sh`.  Iterates over files in repository and check their
 **Usage**
 
 ```sh
-cp validate_files_size.sh /your/repository/path/
+cp validate_file_size.sh /your/repository/path/
 cd /your/repository/path/
 ```
 
 ```sh
-cp validate_files_size.sh ./.git/hooks/pre-commit
+cp validate_file_size.sh ./.git/hooks/pre-commit
 ```
 
 ```sh
