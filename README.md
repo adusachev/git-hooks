@@ -1,4 +1,4 @@
-# useful-git-hooks
+# git-hooks
 
 ## pre-commit hook
 
